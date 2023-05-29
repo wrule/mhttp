@@ -8,5 +8,9 @@
     "watch": "tsc --watch"
   },
   "repository": "https://github.com/wrule/mhttp.git",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "mockttp": "^3.7.5",
+    "superagent": "^8.0.9"
+  }
 }
