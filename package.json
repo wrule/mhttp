@@ -2,6 +2,11 @@
   "name": "mhttp",
   "version": "0.1.0",
   "main": "dist/index.js",
+  "scripts": {
+    "dev": "node dist/index.js",
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
   "repository": "https://github.com/wrule/mhttp.git",
   "license": "MIT"
 }
