@@ -3,6 +3,8 @@ import * as mockhttp from 'mockttp';
 function main() {
   const server = mockhttp.getLocal({
     https: {
+      // key: '',
+      // cert: '',
       keyPath: './ca/testCA.key',
       certPath: './ca/testCA.pem',
     },
