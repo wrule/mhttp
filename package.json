@@ -1,0 +1,7 @@
+{
+  "name": "mhttp",
+  "version": "0.1.0",
+  "main": "dist/index.js",
+  "repository": "https://github.com/wrule/mhttp.git",
+  "license": "MIT"
+}
